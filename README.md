@@ -32,6 +32,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Create DataFrame from Dict | Create a pandas DataFrame from dictionary data and report its records, shape, and ordered column names. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-read-csv |
 | Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-basic-select |
 | DISTINCT Values | Return each customer and their distinct product count with SQL aggregation and deterministic sorting. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-distinct-values |
+| INNER JOIN | Join employees to matching departments with SQL INNER JOIN and return employee name, salary, and department. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-inner-join |
 | LIMIT and OFFSET | Use SQL ORDER BY, LIMIT, and OFFSET to return the second through fourth highest-revenue sales with tie-breaking. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-limit-offset |
 | ORDER BY | Sort student exam results in SQL by descending score and ascending name for deterministic ties. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-order-by |
 | WHERE Clauses | Filter employees by department and salary with SQL WHERE conditions, returning only qualifying names and salaries. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-where-clauses |
