@@ -35,6 +35,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | INNER JOIN | Join employees to matching departments with SQL INNER JOIN and return employee name, salary, and department. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-inner-join |
 | LIMIT and OFFSET | Use SQL ORDER BY, LIMIT, and OFFSET to return the second through fourth highest-revenue sales with tie-breaking. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-limit-offset |
 | ORDER BY | Sort student exam results in SQL by descending score and ascending name for deterministic ties. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-order-by |
+| Self Join | Use a SQL self join to pair users with their referrers while labeling organic signups without a referral. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-self-join |
 | WHERE Clauses | Filter employees by department and salary with SQL WHERE conditions, returning only qualifying names and salaries. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-where-clauses |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/kingshukbba2027)
